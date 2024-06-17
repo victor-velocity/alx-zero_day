@@ -1,1 +1,1 @@
-My first readme
+This is a corrected readme file from github
